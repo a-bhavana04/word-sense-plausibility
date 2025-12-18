@@ -16,3 +16,4 @@ This project studies how encoder-based Transformer models score the plausibility
 * **`SFT+regression/`** – Notebook for instruction tuning (SFT) prior to regression training.
 * **`IAA-analysis/`** – Notebooks for calculating inter-annotator agreement (IAA) metrics like Fleiss’ κ.
 * **`EDA/`** – Notebook for performing exploratory data analysis on gold as well as synthetic datasets.
+* **`dataset/`** – Contains train.json and dev.json (Gold dataset)
